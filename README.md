@@ -1,7 +1,7 @@
 # Личный проект «{{projectTitle}}»
 
 * Студент: [{{userName}}]({{userProfile}}).
-* Наставник: [Александр Першин] (https://github.com/GreenLeit/cat-energy/pull/1).
+* Наставник: `Неизвестно`.
 
 ---
 
